@@ -1,0 +1,8 @@
+{
+  "api_key": "xxx",
+  "api_secret": "xxx",
+  "api_passphrase": "xxx",
+  "symbol": "BTC",
+  "min_param": "0.0000001",
+  "price_param": "0.0000000001"
+}

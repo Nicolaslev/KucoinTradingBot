@@ -1,0 +1,8 @@
+{
+  "api_key": "xxx",
+  "api_secret": "xxx",
+  "api_passphrase": "xxx",
+  "symbol": "KCS",
+  "min_param": "0.00001",
+  "price_param": "0.000001"
+}
