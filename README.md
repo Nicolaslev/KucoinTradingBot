@@ -41,6 +41,11 @@ Copy into each directory the avg_position.exe file into the respective coins fol
 ![image](https://user-images.githubusercontent.com/99097186/152657730-a58b6c5a-a914-412a-b426-830c362f1388.png)
 
 Rename the .exe file to reflect the name of the coin. 
+Remove the _xxx from the config_xxx.json and rename config.json
+
+![image](https://user-images.githubusercontent.com/99097186/152658332-844dafbb-30aa-4cac-815e-26c223933350.png)
+
+
 This is important to be able to restart the program on crash 
 
 ![image](https://user-images.githubusercontent.com/99097186/152657789-1c610612-304d-40e7-bae8-c8ce1a897114.png)
