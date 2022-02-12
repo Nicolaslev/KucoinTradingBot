@@ -16,6 +16,10 @@ Advantages: The strategy of averaging positions is essentially a grid strategy, 
 
 Disadvantages: The risk is that the price continues to rise or fall unilaterally after the adjustment of positions.
 
+ORIGINAL GITHUB FROM KUCOIN HERE : https://github.com/Kucoin-academy/avg-position
+
+
+
 Newton
 How to easily transfer funds to and from a canadian bank account. 
 They also offer interact deposit
