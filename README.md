@@ -1,6 +1,10 @@
 # KucoinTradingBot
 Kucoin Trading Bot - Program and configurations
 
+The majority of people would think that having a bias for a crypto vs a cash position would give a bigger positive return. However, the Robot-trader automatically modifies the proportion by 1% to keep the value of the portfolio at the same ratio and thus take advantage of the volatility (% of average change in the action).
+
+The robot has 50%/50% trade 4x when losing 17%. Other trades 3x. We thus have a robot that is 33% more sensitive to the market and it buys nearly 40% more crypto than we can resell when it goes up.
+
 Strategy description
 The strategy based on the spot average position is essentially a simplified version of the grid strategy. Keep fixing the ratio of the position of an investment target held to the total position. When the value of this investment target exceed an established threshold, sell part of the target to keep the ratio. When the value of this investment target become under than the established threshold, buy back part of the target to keep the ratio. Through continuous adjustment, the tartget ratio has been maintained at a fixed value to keep dynamic balancing.
 
