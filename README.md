@@ -69,3 +69,24 @@ Download Restart on crash included in this repo. This will ensure your auto-trad
 This will be what the interface will look like, you can run as many bots as you like, they will all thinks that they have 50% of the cash
 
 ![image](https://user-images.githubusercontent.com/99097186/152657996-6780f837-3015-425a-b4d9-7aeb11005232.png)
+
+Present BTC CONFIG
+  "symbol": "BTC",
+  "min_param": "0.00003",
+  "price_param": "0.0000000001"
+
+Present ETH CONFIG
+  "symbol": "ETH",
+  "min_param": "0.0005",
+  "price_param": "0.00000002"
+
+Present KCS CONFIG
+  "symbol": "KCS",
+  "min_param": "0.10",
+  "price_param": "0.0000010"
+
+Present KDA CONFIG
+  "symbol": "KDA",
+  "min_param": "1.5",
+  "price_param": "0.00004"
+
