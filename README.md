@@ -1,6 +1,6 @@
 # KucoinTradingBot
 
-This BOT uses an algorythm called "The Bank" because it does 100% the contrary to what the market is doing. It will buy the dib and will take profits when the coin is mooning. The BOT will compare the value in cryto vs the value in USDT and then buy or sell accordingly. You can run multiple instances for several coins at the same time and the USDT will be split accordingly. EX : Trade 3 crypto, USDT = 1/4 of the total value. Trade 4 Crypto and USDT will be 20% of the total value.
+This BOT uses an algorythm called "The Bank" because it does 100% the contrary to what the market is doing. It will buy the dip and will take profits when the coin is mooning. The BOT will compare the value in cryto vs the value in USDT and then buy or sell accordingly. You can run multiple instances for several coins at the same time and the USDT will be split accordingly. EX : Trade 3 crypto, USDT = 1/4 of the total value. Trade 4 Crypto and USDT will be 20% of the total value.
 
 It is not recommanded to CANCEL ALL orders unless there is a lot of cash in orders for USDT.
 
