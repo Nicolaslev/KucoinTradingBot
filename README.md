@@ -1,4 +1,9 @@
 # KucoinTradingBot
+
+This BOT uses an algorythm called "The Bank" because it does 100% the contrary to what the market is doing. It will buy when it's falling and will sell when price will rise. The BOT will compare the value in cryto vs the value in USDT and then buy or sell accordingly. You can run multiple instances for several coins at the same time and the USDT will be split accordingly. EX : Trade 3 crypto, USDT = 1/4 of the total value. Trade 4 Crypto and USDT will be 20% of the total value.
+
+It is not recommanded to CANCEL ALL orders unless there is a lot of cash in orders for USDT.
+
 Kucoin Trading Bot - Program and configurations
 
 The majority of people would think that having a bias for a crypto vs a cash position would give a bigger positive return. However, the Robot-trader automatically modifies the proportion by 1% to keep the value of the portfolio at the same ratio and thus take advantage of the volatility (% of average change in the action).
